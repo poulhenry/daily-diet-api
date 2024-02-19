@@ -1,0 +1,6 @@
+/node_modules
+/tmp/test.db
+
+.env
+.env.test
+
